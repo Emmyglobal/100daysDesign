@@ -58,11 +58,11 @@ h1{
     display: inline;
 }
 .hero{
-    background-color: rgba(0, 0, 0, 0.6);
+    background: rgba(255, 255, 255, 0.9);
     display: flex;
     justify-content: center;
     align-items: center;
-    box-shadow: 0 4px 8px  rgba(66, 26, 26, 0.1);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
     gap: 10px;
     border-radius: 10px;
     flex-direction: column;
